@@ -1,0 +1,15 @@
+D:\Work\2021 2022\sec term\Security\Computer Security Labs\Security Package\startupcode\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+D:\Work\2021 2022\sec term\Security\Computer Security Labs\Security Package\startupcode\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+D:\Work\2021 2022\sec term\Security\Computer Security Labs\Security Package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.csprojAssemblyReference.cache
+D:\Work\2021 2022\sec term\Security\Computer Security Labs\Security Package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CoreCompileInputs.cache
+D:\Work\2021 2022\sec term\Security\Computer Security Labs\Security Package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+D:\Work\2021 2022\sec term\Security\Computer Security Labs\Security Package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+D:\Computer Scince\Colleage\8_LastSemester\Security\Security Package 2022\Security Package\startupcode\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+D:\Computer Scince\Colleage\8_LastSemester\Security\Security Package 2022\Security Package\startupcode\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+D:\Computer Scince\Colleage\8_LastSemester\Security\Security Package 2022\Security Package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.AssemblyReference.cache
+D:\Computer Scince\Colleage\8_LastSemester\Security\Security Package 2022\Security Package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CoreCompileInputs.cache
+D:\Computer Scince\Colleage\8_LastSemester\Security\Security Package 2022\Security Package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+D:\Computer Scince\Colleage\8_LastSemester\Security\Security Package 2022\Security Package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+D:\Computer Scince\Colleage\8_LastSemester\Security\Security Package 2022\Security Package\startupcode\SecurityLibrary\bin\Debug\System.ValueTuple.dll
+D:\Computer Scince\Colleage\8_LastSemester\Security\Security Package 2022\Security Package\startupcode\SecurityLibrary\bin\Debug\System.ValueTuple.xml
+D:\Computer Scince\Colleage\8_LastSemester\Security\Security Package 2022\Security Package\startupcode\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CopyComplete
